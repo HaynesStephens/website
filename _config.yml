@@ -86,6 +86,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haynesstephens"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:haynes13@uchicago.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/haynesstephens/"
 
 footer:
   links:
