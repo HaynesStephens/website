@@ -15,20 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 
 locale                   : "en"
-title                    : "Disease Ecology and Evolution"
+title                    : "Climate and Food Security"
 title_separator          : "-"
-name                     : "Katie Dixon"
+name                     : "Haynes Stephens"
 description              : "Academic Website"
-url                      : "https://kpd19.github.io/website"
+url                      : "https://haynesstephens.github.io/website"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kpd19.github.io"
+repository               : "haynesstephens.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "kpd19-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "haynesstephens-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,25 +77,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Katie Dixon"
-  avatar : "/assets/images/option2.png"
-  bio    : "I'm a PhD student studing disease ecology at the University of Chicago"
+  name   : "Haynes Stephens"
+  avatar : "/assets/images/bio_photo.jpg"
+  bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kdixon_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kpd19"
+      url: "https://github.com/haynesstephens"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kdixon_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kpd19"
+      url: "https://github.com/haynesstephens"
 
 # Default styles:
 defaults:
