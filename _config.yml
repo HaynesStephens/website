@@ -78,20 +78,53 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# author:
+#   name   : "Haynes Stephens"
+#   avatar : "/assets/images/bio_photo.jpg"
+#   bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/haynesstephens"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:haynes13@uchicago.edu"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/haynesstephens/"
+# Site Author
 author:
-  name   : "Haynes Stephens"
-  avatar : "/assets/images/bio_photo.jpg"
-  bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/haynesstephens"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:haynes13@uchicago.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/haynesstephens/"
+  name             : "Haynes Stephens"
+  avatar           : "/assets/images/bio_photo.jpg"
+  bio              : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
+  location         : #"Oculus Research"
+  email            : "haynes13@uchicago.edu"
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           : #"130351586@N05"
+  facebook         : #"jstraub6" 
+  foursquare       :
+  github           : "haynesstephens"
+  google_plus      : #"jstraub6"
+  google_scholar   : "L36-j0IAAAAJ"
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : #"julian-straub-56b70029"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : #"jstraub6"
+  resume           : #"JulianStraub_Resume.pdf"
+  cv               : #"JulianStraub_CV.pdf"
 
 footer:
   links:
