@@ -78,28 +78,28 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "Haynes Stephens"
-#   avatar : "/assets/images/bio_photo.jpg"
-#   bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
-#   links:
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/haynesstephens"
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:haynes13@uchicago.edu"
-#     - label: "LinkedIn"
-#       icon: "fab fa-fw fa-linkedin"
-#       url: "https://www.linkedin.com/in/haynesstephens/"
-#     - label: "Google Scholar"
-#       icon: "fab fa-fw fa-googlescholar"
-#       url: "https://www.linkedin.com/in/haynesstephens/"
-# Site Author
 author:
-  name             : "Haynes Stephens"
-  avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
+  name   : "Haynes Stephens"
+  avatar : "/assets/images/bio_photo.jpg"
+  bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/haynesstephens"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:haynes13@uchicago.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/haynesstephens/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://www.linkedin.com/in/haynesstephens/"
+# Site Author
+# author:
+#   name             : "Haynes Stephens"
+#   avatar           : "/assets/images/bio_photo.jpg"
+#   bio              : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
 #   location         : #"Oculus Research"
 #   email            : "haynes13@uchicago.edu"
 #   uri              : 
@@ -111,7 +111,7 @@ author:
 #   foursquare       :
 #   github           : "haynesstephens"
 #   google_plus      : #"jstraub6"
-  google_scholar   : "L36-j0IAAAAJ"
+#   google_scholar   : "L36-j0IAAAAJ"
 #   keybase          :
 #   instagram        :
 #   lastfm           :
