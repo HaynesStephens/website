@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 # in the templates via {{ site.myvariable }}.
 
 locale                   : "en"
-title                    : "Climate and Food Security"
+title                    : "Climate + Food"
 title_separator          : "-"
 name                     : "Haynes Stephens"
 description              : "Academic Website"
