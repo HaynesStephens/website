@@ -81,7 +81,7 @@ plugins:
 author:
   name   : "Haynes Stephens"
   avatar : "/assets/images/bio_photo.jpg"
-  bio    : "I'm a PhD student studying climate and crop sciences at the University of Chicago"
+  bio    : "PhD student studying climate and crop sciences at UChicago"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
